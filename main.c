@@ -1,8 +1,7 @@
 #include <stdio.h>
 
 int main()
-{
-  //ここにコードを書く
+{ printf{"hajjo word"};
 
   
   return 0;
